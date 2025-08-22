@@ -1,13 +1,8 @@
-
 ![Alt text](./assets/1.png)
 ![Alt text](./assets/3.png)
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=800&size=23&pause=1000&color=00FF6A&width=600&lines=Hey+!+I'm+Arnob...;A+Backend+Developer+%26+AI+Enthusiast+⚡;" />
-</h1>
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Blinker&weight=500&size=36&pause=1000&color=00FF6A&background=FFFFFF00&width=435&lines=Hey+!+I'm+Arnob...;A+Backend+Developer+;%26+AI+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
 
 # 💫 About Me:
 As a CS undergraduate at United International University, I am a fast learner and thrive in team-oriented environments. My commitment to honesty and hard work drives me to excel in all that I do. I'm passionate about gaining diversified job experience to broaden my horizons and develop new skills. I'm excited to explore new opportunities to contribute meaningfully to cutting-edge technologies and collaborate with diverse colleagues.
