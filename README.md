@@ -8,7 +8,7 @@
 As a CS undergraduate at United International University, I am a fast learner and thrive in team-oriented environments. My commitment to honesty and hard work drives me to excel in all that I do. I'm passionate about gaining diversified job experience to broaden my horizons and develop new skills. I'm excited to explore new opportunities to contribute meaningfully to cutting-edge technologies and collaborate with diverse colleagues.
 
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Kamrulislamarnob) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kamrulislama) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Kamrulislamarnob/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrulislamarnob/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@IamArnobOfficial) 
